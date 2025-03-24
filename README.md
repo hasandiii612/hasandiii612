@@ -14,7 +14,7 @@ I'm a **Computer Science undergraduate** with a passion for **UI/UX design, DevO
 ##Projects I'm Working On
 - BrightKids**  - An AI-powered **interactive storytelling app** for kids, featuring **text-to-speech (TTS), AI-generated stories, animations, and quizzes**.
 - Reflekt- A **React & Node.js-based journal app** with **AI sentiment analysis and secure user authentication**.
-- **DisBot**  - A **Discord bot** built with Python to automate server moderation, provide fun interactions, and integrate AI-powered responses.
+- **DizBot**  - A **Discord bot** built with Python to automate server moderation, provide fun interactions, and integrate AI-powered responses.
 
 
 <!--
